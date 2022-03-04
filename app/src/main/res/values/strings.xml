@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTaxiDemo</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCHcyG3gmvW2tyRlxTYsSulJ6mXGHlJm8w</string>
+    <string name="trips_menu_text">Мои поездки</string>
+    <string name="paymenttype">Способы оплаты</string>
+    <string name="favorites">Избранные адреса</string>
+    <string name="place_name">5a улица Асадуллы Ходжаева</string>
+    <string name="where">Куда?</string>
+</resources>
